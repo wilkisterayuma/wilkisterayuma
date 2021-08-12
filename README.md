@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wilkisterayuma
+- 👋 Hi, I’m @wilkister
 - 👀 I’m interested in software development and technoogies
 - 🌱 I’m currently embarking on my software development career
 - 💞️ I’m looking to collaborate on different projects
